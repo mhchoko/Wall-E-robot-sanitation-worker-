@@ -78,17 +78,6 @@ These design choices illustrate the trade-off between **hardware and software** 
 - **Multi-threaded programming**
 - **Real-time embedded systems**
 
-## Results
-
-The robot successfully cleans the defined working area.
-
-Some limitations remain:
-- sensitivity to lighting conditions
-- occasional instability in red color detection
-- minor trajectory deviations due to added hardware weight
-
-Despite these limitations, the project is considered **functional and successful**.
-
 ## Authors
 
 - **Melvyn Huynh**  
