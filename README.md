@@ -27,13 +27,13 @@ The robot must:
         The working area is defined by a **black circular boundary** on the ground.  
 **Cardboard cubes** represent waste to be removed.
       </p>
-      <p>
-        The robot must:
-        - detect waste **inside** the working area,
-        - push waste **outside** the circular boundary,
-        - **never leave** the working area,
-        - automatically return to the **center**, marked by a **red dot**.
-      </p>
+     <p><strong>The robot must:</strong></p>
+      <ul>
+        <li>Detect waste <strong>inside</strong> the working area</li>
+        <li>Push waste <strong>outside</strong> the circular boundary</li>
+        <li><strong>Never leave</strong> the working area</li>
+        <li>Automatically return to the <strong>center</strong>, marked by a <strong>red dot</strong></li>
+      </ul>
     </td>
   </tr>
 </table>
