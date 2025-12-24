@@ -9,7 +9,7 @@ The robot is implemented on the **E-Puck 2** platform and operates in **real tim
 <table>
   <tr>
     <td width="45%">
-      <img src="img/img_project.png" alt="WALL-E cleaning zone" width="100%">
+      <img src="img/img_project.png" alt="WALL-E cleaning zone" width=350>
     </td>
     <td width="55%">
       <h2>WALL-E </h2>
