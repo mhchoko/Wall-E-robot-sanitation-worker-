@@ -64,6 +64,7 @@ Several hardware extensions were added:
 - A **tilted metal front plate** to push objects outside the circular boundary
 - A **mirror** to allow the camera to observe the ground
 - A **battery-powered white LED** to ensure stable lighting conditions
+- A 3D-printed external shell providing a WALL·E-inspired appearance while integrating with the robot’s sensors and actuators
 
 These design choices illustrate the trade-off between **hardware and software** solutions in embedded robotics.
 
