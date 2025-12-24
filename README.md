@@ -19,7 +19,7 @@ The robot must:
 <table>
   <tr>
     <td width="45%">
-      <img src="images/walle_overview.png" alt="WALL-E cleaning zone" width="100%">
+      <img src="images/img_project.png" alt="WALL-E cleaning zone" width="100%">
     </td>
     <td width="55%">
       <h2>WALL-E – Robot Sanitation Worker</h2>
