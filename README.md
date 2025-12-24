@@ -24,13 +24,15 @@ The robot must:
     <td width="55%">
       <h2>WALL-E – Robot Sanitation Worker</h2>
       <p>
-        Inspired by <em>WALL·E</em>, this project focuses on the development of an
-        autonomous sanitation robot capable of detecting and removing waste from
-        a bounded environment while remaining safely inside it.
+        The working area is defined by a **black circular boundary** on the ground.  
+**Cardboard cubes** represent waste to be removed.
       </p>
       <p>
-        The robot is implemented on the <strong>E-Puck 2</strong> platform and
-        operates in <strong>real time</strong> using an <strong>RTOS (ChibiOS)</strong>.
+        The robot must:
+- detect waste **inside** the working area,
+- push waste **outside** the circular boundary,
+- **never leave** the working area,
+- automatically return to the **center**, marked by a **red dot**.
       </p>
     </td>
   </tr>
