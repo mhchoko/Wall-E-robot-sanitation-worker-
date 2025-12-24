@@ -14,7 +14,7 @@ The robot must:
 - push waste **outside** the circular boundary,
 - **never leave** the working area,
 - automatically return to the **center**, marked by a **red dot**.
-<img src="img/img_project.png" alt="WALL-E cleaning zone" width="3500">
+<img src="img/img_project.png" alt="WALL-E cleaning zone" width="350">
 
 ## General Operation
 
