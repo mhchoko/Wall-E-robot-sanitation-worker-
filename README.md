@@ -16,6 +16,26 @@ The robot must:
 - automatically return to the **center**, marked by a **red dot**.
 <img src="img/img_project.png" alt="WALL-E cleaning zone" width="350">
 
+<table>
+  <tr>
+    <td width="45%">
+      <img src="images/walle_overview.png" alt="WALL-E cleaning zone" width="100%">
+    </td>
+    <td width="55%">
+      <h2>WALL-E – Robot Sanitation Worker</h2>
+      <p>
+        Inspired by <em>WALL·E</em>, this project focuses on the development of an
+        autonomous sanitation robot capable of detecting and removing waste from
+        a bounded environment while remaining safely inside it.
+      </p>
+      <p>
+        The robot is implemented on the <strong>E-Puck 2</strong> platform and
+        operates in <strong>real time</strong> using an <strong>RTOS (ChibiOS)</strong>.
+      </p>
+    </td>
+  </tr>
+</table>
+
 ## General Operation
 
 The robot’s behavior relies on a combination of **sensors**, **real-time processing**, and a **modular software architecture**.
