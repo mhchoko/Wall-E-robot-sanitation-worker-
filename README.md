@@ -4,11 +4,6 @@ Inspired by WALL-E, this project focuses on the development of an **autonomous s
 
 The robot is implemented on the **E-Puck 2** platform and operates in **real time** using an **RTOS (ChibiOS)**.
 
-## Project Overview
-
-<img src="img/img_project.png" alt="WALL-E cleaning zone" width="400">
-
-
 ## Objective
 
 The working area is defined by a **black circular boundary** on the ground.  
@@ -19,6 +14,7 @@ The robot must:
 - push waste **outside** the circular boundary,
 - **never leave** the working area,
 - automatically return to the **center**, marked by a **red dot**.
+<img src="img/img_project.png" alt="WALL-E cleaning zone" width="3500">
 
 ## General Operation
 
