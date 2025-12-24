@@ -29,10 +29,10 @@ The robot must:
       </p>
       <p>
         The robot must:
-- detect waste **inside** the working area,
-- push waste **outside** the circular boundary,
-- **never leave** the working area,
-- automatically return to the **center**, marked by a **red dot**.
+        - detect waste **inside** the working area,
+        - push waste **outside** the circular boundary,
+        - **never leave** the working area,
+        - automatically return to the **center**, marked by a **red dot**.
       </p>
     </td>
   </tr>
