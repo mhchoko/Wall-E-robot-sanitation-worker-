@@ -1,4 +1,4 @@
-# WALL-E – Robot Sanitation Worker
+# WALL-E,  Robot Sanitation Worker
 
 Inspired by WALL-E, this project focuses on the development of an **autonomous sanitation robot** capable of detecting and removing waste from a bounded area while remaining safely inside it.
 
