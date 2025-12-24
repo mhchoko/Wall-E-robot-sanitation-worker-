@@ -6,16 +6,6 @@ The robot is implemented on the **E-Puck 2** platform and operates in **real tim
 
 ## Objective
 
-The working area is defined by a **black circular boundary** on the ground.  
-**Cardboard cubes** represent waste to be removed.
-
-The robot must:
-- detect waste **inside** the working area,
-- push waste **outside** the circular boundary,
-- **never leave** the working area,
-- automatically return to the **center**, marked by a **red dot**.
-<img src="img/img_project.png" alt="WALL-E cleaning zone" width="350">
-
 <table>
   <tr>
     <td width="45%">
