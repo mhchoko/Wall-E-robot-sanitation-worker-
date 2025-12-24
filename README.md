@@ -6,7 +6,7 @@ The robot is implemented on the **E-Puck 2** platform and operates in **real tim
 
 ## Project Overview
 
-<img src="images/walle.png" alt="WALL-E cleaning zone" width="400">
+<img src="img/img_projet" alt="WALL-E cleaning zone" width="400">
 
 
 ## Objective
