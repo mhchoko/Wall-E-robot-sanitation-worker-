@@ -1,6 +1,6 @@
 # WALL-E – Robot Sanitation Worker
 
-Inspired by *WALL-E*, this project focuses on the development of an **autonomous sanitation robot** capable of detecting and removing waste from a bounded area while remaining safely inside it.
+Inspired by WALL-E, this project focuses on the development of an **autonomous sanitation robot** capable of detecting and removing waste from a bounded area while remaining safely inside it.
 
 The robot is implemented on the **E-Puck 2** platform and operates in **real time** using an **RTOS (ChibiOS)**.
 
