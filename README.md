@@ -12,7 +12,7 @@ The robot is implemented on the **E-Puck 2** platform and operates in **real tim
       <img src="img/img_project.png" alt="WALL-E cleaning zone" width="100%">
     </td>
     <td width="55%">
-      <h2>WALL-E – Robot Sanitation Worker</h2>
+      <h2>WALL-E </h2>
       <p>
         The working area is defined by a **black circular boundary** on the ground.  
 **Cardboard cubes** represent waste to be removed.
